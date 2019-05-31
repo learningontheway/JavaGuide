@@ -77,7 +77,7 @@
 
 * [常见面试题](docs/java/collection/Java集合框架常见面试题.md)
 * [ArrayList 源码学习](docs/java/collection/ArrayList.md)  
-* [LinkedList 源码学习](docs/java/collection/LinkedList.md)   
+* [LinkedList 源码学习](docs/java/collection/LinkedList.md)  (容器这里是面试重点) 
 * [HashMap(JDK1.8)源码学习](docs/java/collection/HashMap.md)  
 
 ### 并发
